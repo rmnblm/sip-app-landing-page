@@ -58,6 +58,10 @@ features                                  :
   - title                                 : iCloud Sync
     description                           : Your data will be stored in your iCloud account and shared across your devices, both iPhone and iPad.
     fontawesome_icon_name                 : cloud
+  
+  - title                                 : Privacy at Heart
+    description                           : We will never sell your data. All data stays on your device unless you decide to securely sync it via iCloud.
+    fontawesome_icon_name                 : lock
 
   - title                                 : Dark Mode Support
     description                           : Sip has an incredible Dark Mode that's great when you want something easier on your eyes at night or in a dark cellar, or you just prefer Dark Modes.
