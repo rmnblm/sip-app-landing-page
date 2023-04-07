@@ -35,45 +35,33 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Cellar Management
+    description                           : Keep track of the wines in your cellar, including information such as wine name, vintage, producer, region, and price. Search, filter and get the most out of your cellar.
+    fontawesome_icon_name                 : wine-bottle
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Tasting Journal
+    description                           : Write tasting notes and rate your wines on a scale from 1 to 5 stars.
+    fontawesome_icon_name                 : pencil
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
-
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
-
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Dark Mode Support
+    description                           : In addition to the gorgeous Light Mode, Apollo also has an incredible Dark Mode that's great when you want something easier on your eyes at night, or you just prefer Dark Modes.
     fontawesome_icon_name                 : adjust
+
+  - title                                 : Native Speed, Beautiful UI
+    description                           : Sip was built from the beginning to look and feel like a gorgeous, immediately familiar iOS app, following the design guidelines Apple put forward. 
+    fontawesome_icon_name                 : magic
+
+  - title                                 : Import and Export
+    description                           : Import your collections from or to an Excel sheet.
+    fontawesome_icon_name                 : table
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : iCloud Sync
+    description                           : Your data will be stored in your iCloud account. You can disable this at any time from your settings.
+    fontawesome_icon_name                 : cloud
+  
+  - title                                 : iPhone & iPad
+    description                           : Enjoy Sip not only on your iPhone, but also on your iPad. A future update will bring Sip to Mac too.
     fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
@@ -97,8 +85,8 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color            : "#0396FF"
+feature_icons_background_color            : "#ABDCFF"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
