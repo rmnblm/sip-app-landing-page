@@ -81,7 +81,7 @@ cover_overlay_transparency                : 0.8
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#1d63ea"
+link_color                                : "#0396FF"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
@@ -96,7 +96,7 @@ feature_icons_background_color            : "#DEF1FF"
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
 
-footer_text_color                         : "#0396FF"
+footer_text_color                         : "#666666"
 
 
 
