@@ -35,33 +35,38 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Cellar Management
-    description                           : Keep track of the wines in your cellar, including information such as wine name, vintage, producer, region, and price. Search, filter and get the most out of your cellar.
+  - title                                 : Digitize Your Cellar
+    description                           : Keep track of the wines in your cellar(s), including information such as wine name, vintage, producer, region, and price.
     fontawesome_icon_name                 : wine-bottle
+
+  - title                                 : Find What You Need
+    description                           : Search, group, and filter to get the most out of your cellar.
+    fontawesome_icon_name                 : filter
+
+  - title                                 : Collect with Friends
+    description                           : Share your entire cellar with friends to collect together.
+    fontawesome_icon_name                 : users
     
   - title                                 : Tasting Journal
     description                           : Write tasting notes and rate your wines on a scale from 1 to 5 stars.
-    fontawesome_icon_name                 : pencil
+    fontawesome_icon_name                 : pen
+
+  - title                                 : Import and Export
+    description                           : Import your cellars from or to an Excel sheet.
+    fontawesome_icon_name                 : table
+  
+  - title                                 : iCloud Sync
+    description                           : Your data will be stored in your iCloud account and shared across your devices, both iPhone and iPad.
+    fontawesome_icon_name                 : cloud
 
   - title                                 : Dark Mode Support
-    description                           : In addition to the gorgeous Light Mode, Apollo also has an incredible Dark Mode that's great when you want something easier on your eyes at night, or you just prefer Dark Modes.
+    description                           : Sip has an incredible Dark Mode that's great when you want something easier on your eyes at night or in a dark cellar, or you just prefer Dark Modes.
     fontawesome_icon_name                 : adjust
 
   - title                                 : Native Speed, Beautiful UI
     description                           : Sip was built from the beginning to look and feel like a gorgeous, immediately familiar iOS app, following the design guidelines Apple put forward. 
     fontawesome_icon_name                 : magic
 
-  - title                                 : Import and Export
-    description                           : Import your collections from or to an Excel sheet.
-    fontawesome_icon_name                 : table
-  
-  - title                                 : iCloud Sync
-    description                           : Your data will be stored in your iCloud account. You can disable this at any time from your settings.
-    fontawesome_icon_name                 : cloud
-  
-  - title                                 : iPhone & iPad
-    description                           : Enjoy Sip not only on your iPhone, but also on your iPad. A future update will bring Sip to Mac too.
-    fontawesome_icon_name                 : star
 
 
 
