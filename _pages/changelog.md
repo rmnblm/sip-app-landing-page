@@ -8,6 +8,7 @@ include_in_header: true
 
 <br>
 
+### `Latest`
 ## **Version 1.1**
 
 #### What's New
