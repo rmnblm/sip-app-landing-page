@@ -8,6 +8,16 @@ include_in_header: true
 
 <br>
 
+### `Upcoming`
+## **Version 1.2**
+
+#### What's New
+- Added Tasting Journals. You can create journals to organize your tastings. Journals can be shared with friends.
+- Improved the way new users are added to a shared cellar. New users can now added directly by email address or address book.
+- Removed the possibility to add tags to tastings, please use journals.
+
+<br>
+
 ### `Latest`
 ## **Version 1.1**
 
