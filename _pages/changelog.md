@@ -14,7 +14,13 @@ include_in_header: true
 #### What's New
 - Added Tasting Journals 📚 You can create journals to organize your tastings. Journals can be shared with friends.
 - Improved the way new users are added to a shared cellar. New users can now added directly by email address or address book.
+- Improved the way new bottles are added.
+- Implemented a better caching mechanism for bottle quantities.
 - Removed the possibility to add tags to tastings, please use journals.
+
+#### Bug Fixes
+- Fixed an issue where Sip showed the wrong quantity of bottles.
+- Fixed an issue where the default currency of tastings was always `USD`.
 
 <br>
 
