@@ -1,22 +1,3 @@
----
-layout: page
-title: What's New
-include_in_header: true
----
-
-# Changelog
-
-<br>
-
-### `In Progress`
-## **Version 1.3**
-
-#### What's New
-- Added the possibility to define grape varieties for wines. 🍇
-
-<br>
-
-### `Latest`
 ## **Version 1.2**
 
 #### What's New
@@ -33,8 +14,6 @@ include_in_header: true
 - Fixed an issue where images are not added to new tastings when coming directly from camera.
 - Fixed an issue where the keyboard overlaps the textfields.
 - Fixed an issue where the "Leave a Review" button was unresponsive.
-
-<br>
 
 ## **Version 1.1**
 
@@ -53,9 +32,6 @@ include_in_header: true
 - Fixed multitasking navigation issues on iPad.
 - Fixed a bug where removing yourself from a shared cellar doesn't update the UI.
 
-<br>
-
 ## **Version 1.0**
-This is the first release version. 🎉
 
-<br>
+This is the first release version. 🎉
