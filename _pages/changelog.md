@@ -13,6 +13,8 @@ include_in_header: true
 
 #### What's New
 - Added the possibility to define grape varieties for wines. 🍇
+- Improved the way how the changelog is presented to the user.
+- Improved the button alignment when adding bottles.
 
 <br> -->
 
