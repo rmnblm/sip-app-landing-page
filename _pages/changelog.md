@@ -8,13 +8,13 @@ include_in_header: true
 
 <br>
 
-### `In Progress`
+<!-- ### `In Progress`
 ## **Version 1.3**
 
 #### What's New
 - Added the possibility to define grape varieties for wines. 🍇
 
-<br>
+<br> -->
 
 ### `Latest`
 ## **Version 1.2**
