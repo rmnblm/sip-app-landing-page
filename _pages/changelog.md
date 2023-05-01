@@ -8,11 +8,12 @@ include_in_header: true
 
 <br>
 
-### `Upcoming`
+### `In Progress`
 ## **Version 1.2**
 
 #### What's New
 - Added Tasting Journals 📚 You can create journals to organize your tastings. Journals can be shared with friends.
+- Added the possibility to change the 5-star rating using your thumb. ⭐️
 - Improved the way new users are added to a shared cellar. New users can now added directly by email address or address book.
 - Improved the way new bottles are added.
 - Implemented a better caching mechanism for bottle quantities.
@@ -21,6 +22,9 @@ include_in_header: true
 #### Bug Fixes
 - Fixed an issue where Sip showed the wrong quantity of bottles.
 - Fixed an issue where the default currency of tastings was always `USD`.
+- Fixed an issue where images are not added to new tastings when coming directly from camera.
+- Fixed an issue where the keyboard overlaps the textfields.
+- Fixed an issue where the "Leave a Review" button was unresponsive.
 
 <br>
 
