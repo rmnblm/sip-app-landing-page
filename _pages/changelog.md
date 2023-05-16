@@ -16,6 +16,9 @@ include_in_header: true
 - Improved the way how the changelog is presented to the user.
 - Improved the button alignment when adding bottles.
 
+#### Bug Fixes
+- Fixed an issue in the wine list where empty sections were shown.
+
 <br> -->
 
 ### `Latest`
