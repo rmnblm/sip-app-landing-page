@@ -36,11 +36,11 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Digitize Your Cellar
-    description                           : Keep track of the wines in your cellar(s), including information such as wine name, vintage, producer, region, and price.
+    description                           : Keep track of the wines in your cellar(s), including information such as wine name, vintage, producer, region, grape varieties, and price.
     fontawesome_icon_name                 : wine-bottle
 
   - title                                 : Find What You Need
-    description                           : Search, group, and filter to get the most out of your cellar.
+    description                           : Search, group, and filter to get the most out of your cellar. Explore and discover wines based on your preferences.
     fontawesome_icon_name                 : filter
 
   - title                                 : Collect with Friends
