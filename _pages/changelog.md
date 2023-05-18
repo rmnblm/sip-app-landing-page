@@ -12,14 +12,15 @@ include_in_header: true
 ## **Version 1.3**
 
 #### What's New
-- Added the possibility to define grape varieties for wines. 🍇 We're excited to introduce a brand new feature that allows you to add grape varieties to each wine in your cellar. Now you can keep track of the unique characteristics and flavors associated with different grape varieties.
-- The wine details screen now includes a dedicated section for grape varieties. You can add, edit, and remove grape varieties for each wine entry in your cellar. This makes it easier to manage and maintain accurate information about your wines.
+- We're excited to introduce a brand new feature that allows you to add grape varieties to each wine in your cellar. Now you can keep track of the unique characteristics and flavors associated with different grape varieties. There are over 1600 grape varieties in the database. 🍇 
+- The wine details screen now includes a dedicated section for grape varieties. You can add, edit, and remove grape varieties for each wine entry in your cellar. This makes it easier to manage and maintain accurate information about your wines. In addition, a growing list of the most popular grape varieties have a short description about the characteristics of the grape variety, just watch out for the circled "i". 
 - Improved search and filter: We've integrated the grape varieties feature into the search and filter options of the app. You can now search for specific grape varieties or filter your wine cellar based on the grapes used. This enables you to explore and discover wines based on your preferred grape varieties.
 - Improved the way how the changelog is presented to the user.
 - Improved the button alignment when adding bottles.
 
 #### Bug Fixes
 - Fixed an issue in the wine list where empty sections were shown.
+- Fixed an issue where sorting the wine list by name was wrong.
 
 <br>
 
