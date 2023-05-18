@@ -8,7 +8,7 @@ include_in_header: true
 
 <br>
 
-### `In Progress`
+### `Latest`
 ## **Version 1.3**
 
 #### What's New
@@ -24,7 +24,6 @@ include_in_header: true
 
 <br>
 
-### `Latest`
 ## **Version 1.2**
 
 #### What's New
