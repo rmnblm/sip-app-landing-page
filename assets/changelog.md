@@ -1,5 +1,7 @@
 ## **Version 1.3**
 
+![v1.3.0](/versions/v1.3.0.png)
+
 #### What's New
 - We're excited to introduce a brand new feature that allows you to add grape varieties to each wine in your cellar. Now you can keep track of the unique characteristics and flavors associated with different grape varieties. There are over 1600 grape varieties in the database. 🍇 
 - The wine details screen now includes a dedicated section for grape varieties. You can add, edit, and remove grape varieties for each wine entry in your cellar. This makes it easier to manage and maintain accurate information about your wines. In addition, a growing list of the most popular grape varieties have a short description about the characteristics of the grape variety, just watch out for the circled "i". 
