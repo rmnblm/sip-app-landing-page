@@ -8,12 +8,28 @@ include_in_header: true
 
 <br>
 
+### `In Progress`
+## **Version 1.4**
+
+#### What's New
+- We're thrilled to introduce an exciting new feature that allows you to generate comprehensive reports about your wine cellar. Now you can gain valuable insights into your wine consumption, grape varieties, wine categories, and more. 📊
+- Consumption Report: You can now generate a consumption report that provides an overview of your wine consumption patterns. This report includes information such as the number of bottles consumed, average consumption per month, and a breakdown by wine category.
+- Grape Varieties Report: With the new grape varieties report, you can explore the distribution of grape varieties in your wine cellar. The report highlights the most prevalent grape varieties, allowing you to discover your preferences and broaden your wine knowledge.
+- Wine Category Report: The wine category report provides a breakdown of the different wine categories present in your cellar. You can easily identify the distribution of red, white, rosé, sparkling, or other wine types you have collected.
+
+#### Bug Fixes
+- Fixed an issue where the "Leave a Review" button lead to an App Store error.
+
+<br>
+
 ### `Latest`
 ## **Version 1.3**
 
+![v1.3.0](/assets/versions/v1.3.0.png)
+
 #### What's New
 - We're excited to introduce a brand new feature that allows you to add grape varieties to each wine in your cellar. Now you can keep track of the unique characteristics and flavors associated with different grape varieties. There are over 1600 grape varieties in the database. 🍇 
-- The wine details screen now includes a dedicated section for grape varieties. You can add, edit, and remove grape varieties for each wine entry in your cellar. This makes it easier to manage and maintain accurate information about your wines. In addition, a growing list of the most popular grape varieties have a short description about the characteristics of the grape variety, just watch out for the circled "i". 
+- The wine details screen now includes a dedicated section for grape varieties. You can add and remove grape varieties for each wine entry in your cellar. This makes it easier to manage and maintain accurate information about your wines. In addition, a growing list of the most popular grape varieties have a short description about the characteristics of the grape variety, just watch out for the circled "i". 
 - Improved search and filter: We've integrated the grape varieties feature into the search and filter options of the app. You can now search for specific grape varieties or filter your wine cellar based on the grapes used. This enables you to explore and discover wines based on your preferred grape varieties.
 - Improved the way how the changelog is presented to the user.
 - Improved the button alignment when adding bottles.
