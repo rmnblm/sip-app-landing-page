@@ -1,3 +1,18 @@
+## **Version 1.4**
+
+#### What's New
+- We're thrilled to introduce an exciting new feature that allows you to generate comprehensive reports about your wine cellar. Now you can gain valuable insights into your wine consumption, grape varieties, wine categories, and more. 📊
+- Consumption Report: You can now generate a consumption report that provides an overview of your wine consumption patterns. This report includes information about the number of bottles consumed and average consumption, either in the last 30 days or the last 12 months.
+- Grape Varieties Report: With the new grape varieties report, you can explore the distribution of grape varieties in your wine cellar. The report highlights the most prevalent grape varieties, allowing you to discover your preferences and broaden your wine knowledge.
+- Wine Category Report: The wine category report provides a breakdown of the different wine categories present in your cellar, consumed or available. You can easily identify the distribution of red, white, rosé, sparkling, or other wine types you have collected.
+- Wine Region Report: The wine region provides a breakdown of the different wine regions present in your cellar, consumed or available. You can easily identify your favorite regions.
+- Added the possibility to load preview data into the app. Just go to Settings > Data > Advanced.
+
+#### Bug Fixes
+- Fixed an issue where the "Leave a Review" button lead to an App Store error.
+- Fixed an issue where tasting images were duplicated during editing.
+
+<!--v-->
 ## **Version 1.3**
 
 #### What's New
