@@ -11,6 +11,8 @@ include_in_header: true
 ### `In Progress`
 ## **Version 1.4**
 
+![v1.4.0](/assets/versions/v1.4.0.png)
+
 #### What's New
 - We're thrilled to introduce an exciting new feature that allows you to generate comprehensive reports about your wine cellar. Now you can gain valuable insights into your wine consumption, grape varieties, wine categories, and more. 📊
 - Consumption Report: You can now generate a consumption report that provides an overview of your wine consumption patterns. This report includes information about the number of bottles consumed and average consumption, either in the last 30 days or the last 12 months.
