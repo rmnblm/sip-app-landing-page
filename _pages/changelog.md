@@ -8,7 +8,7 @@ include_in_header: true
 
 <br>
 
-### `In Progress`
+<!--### `In Progress`
 ## **Version 1.4**
 
 ![v1.4.0](/assets/versions/v1.4.0.png)
@@ -25,7 +25,7 @@ include_in_header: true
 - Fixed an issue where the "Leave a Review" button lead to an App Store error.
 - Fixed an issue where tasting images were duplicated during editing.
 
-<br>
+<br>-->
 
 ### `Latest`
 ## **Version 1.3**
