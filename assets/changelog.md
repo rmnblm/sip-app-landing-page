@@ -13,6 +13,12 @@
 - Fixed an issue where tasting images were duplicated during editing.
 
 <!--v-->
+## **Version 1.3.1**
+
+#### Bug Fixes
+- Fixed an issue where tastings were not added to journals, or moved between journals.
+
+<!--v-->
 ## **Version 1.3**
 
 #### What's New
