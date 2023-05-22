@@ -28,6 +28,13 @@ include_in_header: true
 <br>-->
 
 ### `Latest`
+### **Version 1.3.1**
+
+#### Bug Fixes
+- Fixed an issue where tastings were not added to journals, or moved between journals.
+
+<br>
+
 ## **Version 1.3**
 
 ![v1.3.0](/assets/versions/v1.3.0.png)
