@@ -26,15 +26,6 @@ include_in_header: true
 - Fixed an issue where tasting images were duplicated during editing.
 
 <br>-->
-
-### `Latest`
-### **Version 1.3.1**
-
-#### Bug Fixes
-- Fixed an issue where tastings were not added to journals, or moved between journals.
-
-<br>
-
 ## **Version 1.3**
 
 ![v1.3.0](/assets/versions/v1.3.0.png)
@@ -49,6 +40,12 @@ include_in_header: true
 #### Bug Fixes
 - Fixed an issue in the wine list where empty sections were shown.
 - Fixed an issue where sorting the wine list by name was wrong.
+
+### `Latest`
+### **Version 1.3.1**
+
+#### Bug Fixes
+- Fixed an issue where tastings were not added to journals, or moved between journals.
 
 <br>
 
