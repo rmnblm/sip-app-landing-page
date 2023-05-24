@@ -1,13 +1,16 @@
 ## **Version 1.4**
 
+We're thrilled to introduce an exciting new feature that allows you to generate comprehensive reports about your wine cellar. Now you can gain valuable insights into your wine consumption, grape varieties, wine categories, and more. 📊
+- Consumption Report: You can now generate a consumption report that provides an overview of your wine consumption patterns. This report includes information about the number of bottles consumed and average consumption, either in the last 30 days or the last 12 months.
+- Grape Varieties Report: With the new grape varieties report, you can explore the distribution of grape varieties in your wine cellar. The report highlights the most prevalent grape varieties, allowing you to discover your preferences and broaden your wine knowledge.
+- Wine Category Report: The wine category report provides a breakdown of the different wine categories present in your cellar, consumed or available. You can easily identify the distribution of red, white, rosé, sparkling, or other wine types you have collected.
+- Wine Region Report: The wine region provides a breakdown of the different wine regions present in your cellar, consumed or available. You can easily identify your favorite regions.
+- Total Value Report: Get a comprehensive overview of the total value of your wine cellar. This report calculates the combined value of all the wines in your collection, providing a useful reference for insurance purposes or investment tracking.
+- Most Expensive Bottle: Identify the most expensive bottle in your wine cellar. This feature highlights the wine with the highest monetary value, allowing you to keep track of your most valuable asset.
+- Customization Options: Tailor your report list to your specific preferences and reorder or hide certain reports.
+
 #### What's New
-- We're thrilled to introduce an exciting new feature that allows you to generate comprehensive reports about your wine cellar. Now you can gain valuable insights into your wine consumption, grape varieties, wine categories, and more. 📊
-    1. Consumption Report: You can now generate a consumption report that provides an overview of your wine consumption patterns. This report includes information about the number of bottles consumed and average consumption, either in the last 30 days or the last 12 months.
-    2. Grape Varieties Report: With the new grape varieties report, you can explore the distribution of grape varieties in your wine cellar. The report highlights the most prevalent grape varieties, allowing you to discover your preferences and broaden your wine knowledge.
-    3. Wine Category Report: The wine category report provides a breakdown of the different wine categories present in your cellar, consumed or available. You can easily identify the distribution of red, white, rosé, sparkling, or other wine types you have collected.
-    4. Wine Region Report: The wine region provides a breakdown of the different wine regions present in your cellar, consumed or available. You can easily identify your favorite regions.
-    5. Total Value Report: Get a comprehensive overview of the total value of your wine cellar. This report calculates the combined value of all the wines in your collection, providing a useful reference for insurance purposes or investment tracking.
-    6. Most Expensive Bottle: Identify the most expensive bottle in your wine cellar. This feature highlights the wine with the highest monetary value, allowing you to keep track of your most valuable asset.
+- Added reports.
 - Added the possibility to load preview data into the app. Just go to Settings > Data > Advanced.
 - Improved data preview during import.
 
@@ -24,10 +27,12 @@
 <!--v-->
 ## **Version 1.3**
 
+We're excited to introduce a brand new feature that allows you to add grape varieties to each wine in your cellar. Now you can keep track of the unique characteristics and flavors associated with different grape varieties. There are over 1600 grape varieties in the database. 🍇 
+- The wine details screen now includes a dedicated section for grape varieties. You can add, edit, and remove grape varieties for each wine entry in your cellar. This makes it easier to manage and maintain accurate information about your wines. In addition, a growing list of the most popular grape varieties have a short description about the characteristics of the grape variety, just watch out for the circled "i". 
+- Improved search and filter: We've integrated the grape varieties feature into the search and filter options of the app. You can now search for specific grape varieties or filter your wine cellar based on the grapes used. This enables you to explore and discover wines based on your preferred grape varieties.
+
 #### What's New
-- We're excited to introduce a brand new feature that allows you to add grape varieties to each wine in your cellar. Now you can keep track of the unique characteristics and flavors associated with different grape varieties. There are over 1600 grape varieties in the database. 🍇 
-    1. The wine details screen now includes a dedicated section for grape varieties. You can add, edit, and remove grape varieties for each wine entry in your cellar. This makes it easier to manage and maintain accurate information about your wines. In addition, a growing list of the most popular grape varieties have a short description about the characteristics of the grape variety, just watch out for the circled "i". 
-    2. Improved search and filter: We've integrated the grape varieties feature into the search and filter options of the app. You can now search for specific grape varieties or filter your wine cellar based on the grapes used. This enables you to explore and discover wines based on your preferred grape varieties.
+- Added grape varieties.
 - Improved the way how the changelog is presented to the user.
 - Improved the button alignment when adding bottles.
 
