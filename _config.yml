@@ -43,20 +43,20 @@ features                                  :
     description                           : Search, group, and filter to get the most out of your cellar. Explore and discover wines based on your preferences.
     fontawesome_icon_name                 : filter
 
-  - title                                 : Collect with Friends
-    description                           : Share your entire cellar with friends to collect together.
-    fontawesome_icon_name                 : users
+  - title                                 : Reports
+    description                           : Generate comprehensive reports about your wine cellar and gain valuable insights into your wine consumption.
+    fontawesome_icon_name                 : chart-column
     
   - title                                 : Tasting Journal
-    description                           : Write tasting notes and rate your wines on a scale from 1 to 5 stars.
+    description                           : Capture cherished memories with notes about the bottle and photos of the people you shared it with. Rate wines on a scale from 1 to 5 stars.
     fontawesome_icon_name                 : pen
 
   - title                                 : Import and Export
-    description                           : Import your cellars from or to an Excel sheet.
+    description                           : Import and export your wines with ease from a Numbers or Excel sheet.
     fontawesome_icon_name                 : table
   
   - title                                 : iCloud Sync
-    description                           : Your data will be stored in your iCloud account and shared across your devices, both iPhone and iPad.
+    description                           : Your data will be stored in your iCloud account and shared across your devices, both iPhone and iPad. Share your entire cellar with friends to collect together.
     fontawesome_icon_name                 : cloud
   
   - title                                 : Privacy at Heart

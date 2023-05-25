@@ -8,7 +8,7 @@ include_in_header: true
 
 <br>
 
-<!--### `In Progress`
+### `Latest`
 ## **Version 1.4**
 
 ![v1.4.0](/assets/versions/v1.4.0.png)
@@ -31,9 +31,8 @@ We're thrilled to introduce an exciting new feature that allows you to generate 
 - Fixed an issue where the "Leave a Review" button lead to an App Store error.
 - Fixed an issue where tasting images were duplicated during editing.
 
-<br>-->
+<br>
 
-### `Latest`
 ## **Version 1.3.1**
 
 #### Bug Fixes
