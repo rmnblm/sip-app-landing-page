@@ -6,7 +6,6 @@ ios_app_id                                : 6444360091
 ios_app_country                           : ch                                        
 
 appstore_link                             :                                           
-playstore_link                            :                                           
 presskit_download_link                    : 
                                                                                       
 
@@ -45,7 +44,7 @@ features                                  :
 
   - title                                 : Reports
     description                           : Generate comprehensive reports about your wine cellar and gain valuable insights into your wine consumption.
-    fontawesome_icon_name                 : chart
+    fontawesome_icon_name                 : bar-chart
     
   - title                                 : Tasting Journal
     description                           : Capture cherished memories with notes about the bottle and photos of the people you shared it with. Rate wines on a scale from 1 to 5 stars.
