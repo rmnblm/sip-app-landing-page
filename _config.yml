@@ -45,7 +45,7 @@ features                                  :
 
   - title                                 : Reports
     description                           : Generate comprehensive reports about your wine cellar and gain valuable insights into your wine consumption.
-    fontawesome_icon_name                 : chart-column
+    fontawesome_icon_name                 : chart-simple
     
   - title                                 : Tasting Journal
     description                           : Capture cherished memories with notes about the bottle and photos of the people you shared it with. Rate wines on a scale from 1 to 5 stars.
