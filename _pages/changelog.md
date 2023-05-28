@@ -8,6 +8,19 @@ include_in_header: true
 
 <br>
 
+<!--### `In Progress`
+## **Version 1.5**
+
+![v1.5.0](/assets/versions/v1.5.0.png)
+
+#### What's New
+
+
+#### Bug Fixes
+
+
+<br>-->
+
 ### `Latest`
 ## **Version 1.4**
 
