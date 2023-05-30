@@ -7,6 +7,8 @@ Explore the world of wine with an exciting new feature that lands with this vers
 #### What's New
 - Added a new section: Explore! There's a growing list of over 70 grape profiles in the app.
 - Added a new app icon for dark mode. 🌚 You can change the icon in Settings > Appearance > App Icon.
+- Added a new report "Total Ratings"
+- Added a new report "Bottle Movements"
 - Improved wine detail page: Ratings associated with wines from your cellar now show up in your cellars.
 - Updated Reports: "Top Wine Category" and "Top Region" reports are now split up into "Consumed" and "Available".
 - Renamed everything related to tastings from "Tasting" to "Rating".
