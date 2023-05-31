@@ -5,13 +5,13 @@ include_in_header: true
 ---
 
 **Last updated**  
-April 5 2023
+May 31 2023
 
 # Our privacy policy is simple
 
 We don't collect any of your personal data.
 
-We will never require your name, email or any other personal information. All tastings, bottles, and other information entered in the application are stored on your device locally and in your iCloud data.
+We will never require your name, email or any other personal information. All ratings, cellars, wines, bottles, and other information entered in the application are stored on your device locally and in your iCloud data.
 
 We don't have access to it.
 

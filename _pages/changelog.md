@@ -8,18 +8,29 @@ include_in_header: true
 
 <br>
 
-<!--### `In Progress`
+### `In Progress`
 ## **Version 1.5**
 
 ![v1.5.0](/assets/versions/v1.5.0.png)
 
-#### What's New
+Explore the world of wine with an exciting new feature that lands with this version. This new feature allows you to delve into the world of wine with detailed information about grape varieties. Discover the rich history, characteristics, and flavor profiles of various grapes. 🌍 The list of grape varieties will be expanded, version by version. In addition, wine-producing regions will be added later too. Stay tuned!
+- Comprehensive information about different grape varieties, including origin, flavor profiles, and food pairing suggestions.
+- See the wines in your cellars associated with grape varieties.
 
+#### What's New
+- Added the "Explore" feature to delve into the world of wine. There's a growing list of over 70 grape profiles in the app, with regions coming soon!
+- Added a new app icon for dark mode. 🌚 You can change the icon in Settings > Appearance > App Icon.
+- Added a new report "Total Ratings" for the last 12 months.
+- Added a new report "Bottle Movements" for the last 12 months, including a trendline.
+- Improved wine detail page: Ratings associated with wines from your cellar now show up in your cellars.
+- Updated Reports: "Top Wine Category" and "Top Region" reports are now split up into "Consumed" and "Available".
+- Renamed everything related to tastings from "Tasting" to "Rating".
 
 #### Bug Fixes
+- Fixed an issue where the total value chart grouped cellars by name.
+- Fixed an issue where a consumed and rated wine appeared twice in the "Total Consumption" report.
 
-
-<br>-->
+<br>
 
 ### `Latest`
 ## **Version 1.4**
