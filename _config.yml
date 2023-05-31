@@ -46,12 +46,16 @@ features                                  :
     description                           : Generate comprehensive reports about your wine cellar and gain valuable insights into your wine consumption.
     fontawesome_icon_name                 : chart-bar
     
-  - title                                 : Tasting Journal
+  - title                                 : Ratings
     description                           : Capture cherished memories with notes about the bottle and photos of the people you shared it with. Rate wines on a scale from 1 to 5 stars.
     fontawesome_icon_name                 : pen
+    
+  - title                                 : Explore
+    description                           : Delve into the world of wine. Comprehensive information about different grape varieties, including origin, flavor profiles, and food pairing suggestions.
+    fontawesome_icon_name                 : globe
 
   - title                                 : Import and Export
-    description                           : Import and export your wines with ease from a Numbers or Excel sheet.
+    description                           : Import and export your wines with ease from a Numbers or Excel spreadsheet.
     fontawesome_icon_name                 : table
   
   - title                                 : iCloud Sync
