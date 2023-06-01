@@ -8,7 +8,7 @@ include_in_header: true
 
 <br>
 
-### `In Progress`
+### `Latest`
 ## **Version 1.5**
 
 ![v1.5.0](/assets/versions/v1.5.0.jpg)
@@ -32,7 +32,6 @@ Explore the world of wine with an exciting new feature that lands with this vers
 
 <br>
 
-### `Latest`
 ## **Version 1.4**
 
 ![v1.4.0](/assets/versions/v1.4.0.jpg)
