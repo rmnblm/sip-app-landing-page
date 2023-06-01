@@ -11,7 +11,7 @@ include_in_header: true
 ### `In Progress`
 ## **Version 1.5**
 
-![v1.5.0](/assets/versions/v1.5.0.png)
+![v1.5.0](/assets/versions/v1.5.0.jpg)
 
 Explore the world of wine with an exciting new feature that lands with this version. This new feature allows you to delve into the world of wine with detailed information about grape varieties. Discover the rich history, characteristics, and flavor profiles of various grapes. 🌍 The list of grape varieties will be expanded, version by version. In addition, wine-producing regions will be added later too. Stay tuned!
 - Comprehensive information about different grape varieties, including origin, flavor profiles, and food pairing suggestions.
