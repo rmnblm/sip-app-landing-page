@@ -9,6 +9,13 @@ include_in_header: true
 <br>
 
 ### `Latest`
+## **Version 1.5.1**
+
+#### Bug Fixes
+- Fixed an issue where images were missing when editing a rating.
+
+<br>
+
 ## **Version 1.5**
 
 ![v1.5.0](/assets/versions/v1.5.0.jpg)

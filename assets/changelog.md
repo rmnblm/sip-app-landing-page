@@ -1,3 +1,9 @@
+## **Version 1.5.1**
+
+#### Bug Fixes
+- Fixed an issue where images were missing when editing a rating.
+
+<!--v-->
 ## **Version 1.5**
 
 Explore the world of wine with an exciting new feature that lands with this version. This new feature allows you to delve into the world of wine with detailed information about grape varieties. Discover the rich history, characteristics, and flavor profiles of various grapes. 🌍 The list of grape varieties will be expanded, version by version. In addition, wine-producing regions will be added later too. Stay tuned!
