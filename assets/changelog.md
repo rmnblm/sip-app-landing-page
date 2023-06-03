@@ -1,3 +1,9 @@
+## **Version 1.5.2**
+
+#### Bug Fixes
+- Fixed an issue where report data was shown in the wrong months.
+
+<!--v-->
 ## **Version 1.5.1**
 
 #### Bug Fixes
