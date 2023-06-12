@@ -8,6 +8,15 @@ include_in_header: true
 
 <br>
 
+### `In Progress`
+## **Version 1.5.3**
+
+#### Bug Fixes
+- Fixed an issue where reports did not show up as loaded in the report list.
+- Fixed an issue where picking a target cellar to move bottles to isn't reflected in the UI.
+
+<br>
+
 ### `Latest`
 ## **Version 1.5.2**
 
