@@ -1,3 +1,19 @@
+## **Version 1.5.3**
+
+#### What's New
+- Added the name of the journal, if available, to a wine rating in a cellar.
+- Added the possibility to choose the permission for journal participants.
+- Added the (average) rating to each wine in your cellar, if available.
+- Added the possibility to show either all, only available or only empty wines in the wine list.
+
+#### Bug Fixes
+- Fixed an issue where reports did not show up as loaded in the report list.
+- Fixed an issue where picking a target cellar to move bottles to isn't reflected in the UI.
+- Fixed an issue where ratings could be added to read-only journals.
+- Fixed an issue where ratings were mapped to the wrong wine.
+- Fixed an issue where the wrong name was displayed as the person who rated a wine in a shared journal.
+
+<!--v-->
 ## **Version 1.5.2**
 
 #### Bug Fixes
