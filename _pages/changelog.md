@@ -14,7 +14,7 @@ include_in_header: true
 #### What's New
 - Added the possibility to hide the rating in the wine list.
 - Added the possibility to set a default journal when adding a new rating.
-- Added the possibility to bulk move or delete ratings.
+- Added the possibility to bulk copy, move or delete ratings.
 - Removed the possibility to bookmark ratings. Please use journals (e.g. "Favorites") to organize your ratings.
 
 #### Bug Fixes
