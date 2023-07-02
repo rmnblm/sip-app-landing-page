@@ -1,3 +1,16 @@
+## **Version 1.5.4**
+
+#### What's New
+- Added the possibility to hide the rating in the wine list.
+- Added the possibility to set a default journal when adding a new rating.
+- Added the possibility to bulk copy, move or delete ratings.
+- Removed the possibility to bookmark ratings. Please use journals (e.g. "Favorites") to organize your ratings.
+
+#### Bug Fixes
+- Fixed an issue where a misleading alert appeared when moving ratings between journals.
+- Fixed an issue where reports didn't refresh with new data.
+
+<!--v-->
 ## **Version 1.5.3**
 
 #### What's New
