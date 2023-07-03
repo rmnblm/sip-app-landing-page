@@ -1,3 +1,10 @@
+## **Version 1.5.5**
+
+#### Bug Fixes
+- Fixed an issue where a misleading "Cellar deleted" alert appeared when deleting a transaction.
+- Fixed a crash when deleting a transaction.
+
+<!--v-->
 ## **Version 1.5.4**
 
 #### What's New
