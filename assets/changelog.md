@@ -1,3 +1,18 @@
+<!--v-->
+## **Version 1.6**
+
+#### What's New
+- Added the possibility to purchase a lifetime subscription for Sip Premium. Pay once, use forever. ✨
+- Added the possibility to mark a wine as preserved (e.g. with Coravin)
+
+#### Bug Fixes
+- Fixed an issue where moving a wine from one cellar to another resulted in a crash.
+- Fixed an issue where moving a tasting from one journal to another did not update the UI.
+- Fixed an issue where removing yourself from a shared cellar or journal didn't refresh the UI.
+
+Important note for subscribers who want to purchase lifetime: If you're already subscribed to a monthly or annual plan and wish to purchase Sip Premium Lifetime, please cancel your subscription. Once the subscription expires, you are given the option to purchase lifetime. Don't worry, you won't lose access to your data during this grace period.
+
+<!--v-->
 ## **Version 1.5.5**
 
 #### Bug Fixes
