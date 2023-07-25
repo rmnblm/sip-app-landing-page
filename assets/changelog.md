@@ -1,4 +1,3 @@
-<!--v-->
 ## **Version 1.6**
 
 #### What's New

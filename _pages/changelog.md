@@ -6,8 +6,10 @@ include_in_header: true
 
 # Changelog
 
-### `In Progress`
+### `Latest`
 ## **Version 1.6**
+
+![v1.6.0](/assets/versions/v1.6.0.jpg)
 
 #### What's New
 - Added the possibility to purchase a lifetime subscription for Sip Premium. Pay once, use forever. ✨
@@ -22,7 +24,6 @@ Important note for subscribers who want to purchase lifetime: If you're already 
 
 <br>
 
-### `Latest`
 ## **Version 1.5.5**
 
 #### Bug Fixes
