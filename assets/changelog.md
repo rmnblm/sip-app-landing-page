@@ -1,7 +1,7 @@
 ## **Version 1.6**
 
 #### What's New
-- Added the possibility to purchase a lifetime subscription for Sip Premium. Pay once, use forever. ✨
+- Added the possibility to purchase a lifetime subscription for Sip Premium. Pay once, use forever.
 - Added the possibility to mark a wine as preserved (e.g. with Coravin)
 
 #### Bug Fixes

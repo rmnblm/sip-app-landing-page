@@ -12,7 +12,7 @@ include_in_header: true
 ![v1.6.0](/assets/versions/v1.6.0.jpg)
 
 #### What's New
-- Added the possibility to purchase a lifetime subscription for Sip Premium. Pay once, use forever. ✨
+- Added the possibility to purchase a lifetime subscription for Sip Premium. Pay once, use forever.
 - Added the possibility to mark a wine as preserved (e.g. with Coravin)
 
 #### Bug Fixes
