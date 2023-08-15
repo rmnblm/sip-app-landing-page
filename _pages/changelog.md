@@ -7,6 +7,16 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+## **Version 1.6.1**
+
+#### What's New
+- Added information about supported currencies in Settings > Data.
+- Added the possibility to force update currencies.
+- Added a new currency: Icelandic krónas (ISK). Skál!
+
+#### Bug Fixes
+- Fixed an issue where editing a wine, under certain circumstances, resulted in a crash.
+
 ## **Version 1.6**
 
 ![v1.6.0](/assets/versions/v1.6.0.jpg)
