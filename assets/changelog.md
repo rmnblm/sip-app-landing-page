@@ -1,3 +1,9 @@
+## **Version 1.6.2**
+
+#### Bug Fixes
+- Fixed an issue where importing wines neglected the currency and always used USD.
+
+<!--v-->
 ## **Version 1.6.1**
 
 #### What's New
