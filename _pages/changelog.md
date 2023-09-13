@@ -7,12 +7,17 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+## **Version 1.6.3**
+
+#### What's New
+- Replaced the CSV importer which now detects delimiters and escaping characters automatically. 
+- Added a lot of new currencies, including CZK, DKK, HKD, HUF, ILS, MXN, NOK, NZD, PLN, RUB, SAR, SEK, SGD, THB, TRY, and ZAR.
+
 ## **Version 1.6.2**
 
 #### Bug Fixes
 - Fixed an issue where importing wines neglected the currency and always used USD.
 
-### `Latest`
 ## **Version 1.6.1**
 
 #### What's New

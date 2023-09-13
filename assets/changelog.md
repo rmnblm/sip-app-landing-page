@@ -1,3 +1,10 @@
+## **Version 1.6.3**
+
+#### What's New
+- Replaced the CSV importer which now detects delimiters and escaping characters automatically. 
+- Added a lot of new currencies, including CZK, DKK, HKD, HUF, ILS, MXN, NOK, NZD, PLN, RUB, SAR, SEK, SGD, THB, TRY, and ZAR.
+
+<!--v-->
 ## **Version 1.6.2**
 
 #### Bug Fixes
