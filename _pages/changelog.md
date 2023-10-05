@@ -7,6 +7,12 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+## **Version 1.6.4**
+
+#### What's New
+- Apple released iOS 17 and some improvements and modifications to the overall experience have been made
+- Added 500 ml bottle volume
+
 ## **Version 1.6.3**
 
 #### What's New
