@@ -1,3 +1,12 @@
+## **Version 1.6.5**
+
+#### What's New
+- Added an empty state screen if no wines are available in a cellar.
+
+#### Bug Fixes
+- Moving bottles from one cellar to another now sets the most recent price and currency to the moved bottles.
+
+<!--v-->
 ## **Version 1.6.4**
 
 #### What's New
