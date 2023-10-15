@@ -1,3 +1,10 @@
+## **Version 1.6.6**
+
+#### Bug Fixes
+- Fixed an issue where emptying a preserved bottle didn't update the date.
+- Fixed an issue where it wasn't possible to insert decimal prices.
+
+<!--v-->
 ## **Version 1.6.5**
 
 #### What's New
