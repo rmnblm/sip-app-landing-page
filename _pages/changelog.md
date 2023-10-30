@@ -7,6 +7,25 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+## **Version 1.7**
+
+![v1.7.0](/assets/versions/v1.7.0.jpg)
+
+#### What's New
+- Added a widget that showcases one grape per day to learn more about the beautiful world of wines.
+- Added the possibility to switch between rating systems: 5 stars, 20 points (new), 100 points (new).
+- Added the possibility to remove multiple bottle formats at once.
+- Added an additional reason "No reason" when removing a wine. If there is no particular reason why bottle(s) are removed, e.g. just bottle quantity adjustments, use this.
+- Added more flexibility to change bottle details if it was recently added.
+- Added the possibility to set a sell price when using the reason "Sold".
+- Added toasts for user interactions (more to come).
+
+#### Bug Fixes
+- Fixed the empty cellar screen bug (again).
+- Fixed wrong translations.
+- Fixed an issue where setting the category did not update the UI.
+- Fixed an issue where the app automatically navigated to an empty screen.
+
 ## **Version 1.6.6**
 
 #### Bug Fixes
