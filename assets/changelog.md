@@ -1,3 +1,11 @@
+## **Version 1.7.1**
+
+#### Bug Fixes
+- Fixed an issue where setting the appearance color scheme setting didn't work for light and dark.
+- Fixed an issue where a text suggestion during wine input yielded a mismatch between upper- and lowercase.
+- Fixed an issue where the average rating shown in the wine detail page was wrong.
+
+<!--v-->
 ## **Version 1.7.0**
 
 #### What's New
