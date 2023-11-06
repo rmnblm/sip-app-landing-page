@@ -20,10 +20,14 @@ If you want to delete your data, you can delete the app from your device and als
 # Premium Version Terms
 
 1. Subscription may only be used with one iCloud account. If you don't use iCloud, it will apply to your local device only.
-2. You can use an unlimited number of iOS or Mac devices running under your iCloud account.
+2. You can use an unlimited number of iOS devices running under your iCloud account.
 3. The subscription renews automatically every month or year unless cancelled. You can read more billing details below.
 4. Unless family sharing is mentioned on the purchase page, if you share your accounts in the app with someone else, they will need to purchase premium version as well to have more than two accounts displayed in their app.
 
 # Premium Version Billing Details
 
 Payment will be charged to your iTunes account. Your subscription will automatically renew every year unless canceled at least 24 hours before the end of the current period. You will not be able to cancel the subscription for the current period once activated. Auto-renewal may be turned off at any time by going to your settings in the iTunes Store after the purchase.
+
+# Sip Premium Lifetime
+
+If you're already subscribed to a monthly or annual plan and wish to purchase Sip Premium Lifetime, please cancel your subscription. Once the subscription expires, you are given the option to purchase lifetime. Don't worry, you won't lose access to your data, or even lose your data, during this grace period.
