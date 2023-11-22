@@ -7,6 +7,21 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+## **Version 1.8.0**
+
+#### What's New
+- Added the possibility to add a drinking window for wines.
+- Added a country picker when adding a wine to a cellar or during a tasting.
+- Added country flags to detail pages.
+- Added a new way of searching and filtering wines, including grapes and drinking window.
+- Added the possibility to hide cellars and toggle the visibility.
+- Drastically improved the way to add or edit a wine, with the possibility to select an existing wine, and to apply the changes to similar wines and tastings.
+- Renamed "Rating" to "Tasting".
+- Redesigned the experience how bottles and tastings are added.
+
+#### Bug Fixes
+- Fixed an issue where searching for wines did not respect the wine visibility setting.
+
 ## **Version 1.7.1**
 
 #### Bug Fixes
